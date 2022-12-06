@@ -23,7 +23,7 @@ N/A. Sole project
 
 ## Website Link
 
-![https://cicatrice-vlad.github.io/vlad-bio/](https://user-images.githubusercontent.com/117217710/206029588-236ee56f-8087-44d3-91dc-35021140b112.jpg)
+![vladboxing](https://user-images.githubusercontent.com/117217710/206030366-e0e5ba3e-8c91-4c99-8469-d6add028bf6b.jpg)https://cicatrice-vlad.github.io/vlad-bio/
 
 
 ## License
