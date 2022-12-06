@@ -1,5 +1,4 @@
 * {
-  overflow-x: hidden;
   box-sizing: border-box;
 }
 
@@ -11,8 +10,6 @@ body {
   line-height: 1.5;
   font-size: 1.2rem;
 }
-
-
 
 p {
   margin: 0;
@@ -29,7 +26,7 @@ ul {
 #about-me-div {
   color: white;
   width: auto;
-  background-image: url("/starter/images/2383164144.jpg");
+  background-image: url(/images/2383164144.jpg);
   background-size: cover;
 }
 
@@ -106,4 +103,14 @@ ul {
   align-items: center;
   background: black;
   height: 100px;
+}
+
+.pre {
+  margin: auto;
+  padding: auto;
+  border: auto;
+}
+
+#curriculum-vitae {
+  width: 50%;
 }
