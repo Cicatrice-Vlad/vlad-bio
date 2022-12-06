@@ -1,4 +1,5 @@
 * {
+  overflow-x: hidden;
   box-sizing: border-box;
 }
 
@@ -97,20 +98,23 @@ ul {
   flex-grow: 0.5;
 }
 
-.footer {
+/* .footer {
   display: flex;
   justify-content: center;
   align-items: center;
   background: black;
   height: 100px;
-}
+} */
 
-.pre {
+/* .pre {
   margin: auto;
   padding: auto;
   border: auto;
-}
+} */
 
-#curriculum-vitae {
+/* #cv-format {
   width: 50%;
-}
+  margin: auto;
+  padding: auto;
+  border: auto;
+} */
