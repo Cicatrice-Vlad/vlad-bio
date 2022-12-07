@@ -27,7 +27,7 @@ ul {
 #about-me-div {
   color: white;
   width: auto;
-  background-image: url(/vladboxing.jpg);
+  background-image: url("/vladboxing.jpg");
   background-size: cover;
 }
 
